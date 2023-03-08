@@ -20,7 +20,7 @@ I'm interested in new technologies and currently working on web3 and progressive
 - 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 - 💬 Ask me about: Javascript ❤️ 
--  👩‍💻 Currently learning: PYTHON
+-  👩‍💻 Ask me about: PYTHON
 - ⚡ Fun fact: I love researching and solving problems
 
 
