@@ -15,7 +15,7 @@
 <h4> I’m a software engineer specializing in building and designing unique digital experiences.<br/>
 I'm interested in new technologies and currently working on web3 and progressive web app.</h4> 
 
- Checkout my portfolio - **[MY PORTFOLIO](https://olamideo.com/)** 
+ Checkout my portfolio - **[MY PORTFOLIO](https://olamideo.pages.dev/)** 
 
 - 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
